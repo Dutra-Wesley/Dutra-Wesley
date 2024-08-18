@@ -2,14 +2,14 @@
 
 - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas pelo SENAC!
 
-- 💼 A procura de um estágio!
+- 💼 Trabalho atualmente como Sales Development Representative (SDR).
 
 <br>
 
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Meu nome é Wesley Dutra Naiate, tenho 22 anos, sou morador de Florianópolis. Atualmente cursando o 3º semestre de ADS e buscando uma oportunidade no mercado de tecnologia!
+  - 💬 Meu nome é Wesley Dutra Naiate, tenho 23 anos, sou morador de Biguaçu-Florianópolis. Atualmente cursando o 4º semestre de ADS e atuo como SDR!
 
   - ⚡Meus passatempos favoritos são jogos e animes!
 </details>
